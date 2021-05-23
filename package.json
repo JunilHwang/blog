@@ -1,0 +1,6 @@
+{
+  "name": "blog",
+  "devDependencies": {
+    "vuepress": "next"
+  }
+}
