@@ -1,6 +1,10 @@
 {
   "name": "blog",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
   "devDependencies": {
-    "vuepress": "next"
+    "vuepress": "^1.8.2"
   }
 }
