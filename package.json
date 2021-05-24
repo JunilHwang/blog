@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/JunilHwang/blog",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
   "author": "junilhwang <junil.h@kakao.com>",
   "license": "MIT",
   "devDependencies": {
